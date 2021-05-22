@@ -2,7 +2,7 @@
 
 Calculadora da taxa de câmbio, conversor de moeda
 
-
+<img src="img/preview.png" alt="Preview da Tela" align="center "/> 
 
 ## Api Utilizada
 
