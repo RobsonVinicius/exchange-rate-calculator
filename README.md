@@ -1,6 +1,6 @@
 ﻿# Exchange Rate Calculator
 
-Calculadora de taxa de câmbio, conversor de moeda
+Calculadora da taxa de câmbio, conversor de moeda
 
 
 
