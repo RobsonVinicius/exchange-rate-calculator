@@ -1,5 +1,9 @@
 ﻿# Exchange Rate Calculator
 
+Calculador de taxa de câmbio, conversor de moeda
+
+
+
 ## Api Utilizada
 
  + [Exchange Rate API](https://www.exchangerate-api.com/)
